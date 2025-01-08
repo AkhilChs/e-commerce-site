@@ -1,4 +1,4 @@
-AC### To intsall all the required dependecies
+To intsall all the required dependecies
 
 ```
 npm install
